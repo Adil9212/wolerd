@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1117px;
+    margin: 0 auto;
+}
+
+.button1 {
+    width: 165px;
+    height: 49.13px;
+    background: #D64374;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.first-block {
+    display: flex;
+    align-items: center;
+}
+
+.left-side p {
+    opacity: 0.6;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.left-side h1 {
+    font-family: "Hind Madurai" sans-serif;
+    font-style: normal;
+    width: 400px;
+    height: 44px;
+    line-height: 49px;
+}
+
+.background {
+    background: #F8EDF0;
+}
